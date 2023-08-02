@@ -27,6 +27,7 @@
 </p>
 
 <h2 align="left">
+	<img align="center" img src="http://gifgifs.com/animations/computers-technology/computers-and-parts/terminal.gif" width="40" >
 	Languages and Tools:
 </h2>
 
