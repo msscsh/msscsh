@@ -31,6 +31,8 @@
 	Languages and Tools:
 </h2>
 
+
+
 <table class="images" width="100%"  style="border:0px solid white; width:100%;">
 	<tr style="border: 0px;">
 		<td width="35%" style="border:0px; width:33.33%">
