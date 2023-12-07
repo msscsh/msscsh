@@ -36,7 +36,7 @@
 <table class="images" width="100%"  style="border:0px solid white; width:100%;">
 	<tr style="border: 0px;">
 		<td width="35%" style="border:0px; width:33.33%">
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=msscsh&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="msscsh" />
+			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=msscsh&show_icons=true&locale=en&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&langs_count=10" alt="msscsh" />
 		</td>
 		<td width="65%" style="border:0px; width:33.33%">
 			<img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
