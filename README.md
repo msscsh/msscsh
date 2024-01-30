@@ -22,7 +22,7 @@
 
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-		<img src="https://github-profile-trophy.vercel.app/?username=msscsh&theme=oldie&theme=flat&no-bg=true&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&title=Followers,Commits,Repositories,Reviews,Issues,PullRequest,Stars&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="msscsh" />
+		<img src="https://github-profile-trophy.vercel.app/?username=msscsh&no-bg=true&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&title=Followers,Commits,Repositories,Reviews,Issues,PullRequest,Stars&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="msscsh" />
 	</a>
 </p>
 
