@@ -16,6 +16,8 @@
 
 <p align="center"> 
 	<img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" alt="tux" width="220" height="200" >
+</p>
+<p align="center"> 
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=msscsh&theme=green-nur&card_width=450" alt="msscsh23" />
 </p>
 <br/>
